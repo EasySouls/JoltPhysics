@@ -8,3 +8,11 @@
 /detlog.txt
 /Assets/Shaders/VK/*.spv
 /Assets/Shaders/MTL/*.metallib
+
+bin/
+bin-int/
+*.lib
+*.dll
+*.tlog
+*.vcxproj.filters
+*.vcxproj
