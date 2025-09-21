@@ -16,3 +16,5 @@ bin-int/
 *.tlog
 *.vcxproj.filters
 *.vcxproj
+*.vcxproj.user
+Makefile
